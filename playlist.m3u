@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CNBC_Indonesia.svg/1024px-CNBC_Indonesia.svg.png" group-title="Bisnis & Ekonomi",CNBC Indonesia
+https://live.cnbcindonesia.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IDXChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_IDX_Channel.png/800px-Logo_IDX_Channel.png" group-title="Saham & Investasi",IDX Channel
+https://live.idxchannel.com/idx/live.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/MetroTV.svg/1200px-MetroTV.svg.png" group-title="Berita Umum",Metro TV
+https://livestream.metrotvnews.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BeritaSatu_Logo.svg/1024px-BeritaSatu_Logo.svg.png" group-title="Berita Umum",BeritaSatu
+https://beritasatu-live.mncnow.id/live/beritasatu/beritasatu.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KompasTV_logo.png/800px-KompasTV_logo.png" group-title="Berita Umum",Kompas TV
+https://live.kompas.tv/live/kompastv.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CNN_Indonesia_logo.svg/1200px-CNN_Indonesia_logo.svg.png" group-title="Berita Umum",CNN Indonesia
+https://cnnindonesia-live.cdn-vy.cdnmvp.com/live/cnnindonesiatv.m3u8
+
+#EXTINF:-1 tvg-id="RTVCrypto.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/RTV_LOGO.svg/1200px-RTV_LOGO.svg.png" group-title="Crypto & Teknologi",RTV
+https://rtv-live-stream.com/crypto/playlist.m3u8
+
