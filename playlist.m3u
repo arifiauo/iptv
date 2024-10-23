@@ -1,25 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="BeritaSatu.id",BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
 #EXTINF:-1 tvg-id="BloombergAsia.id",Bloomberg Asia
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1861370222_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="GarudaTV.id",Garuda TV
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
-
-#EXTINF:-1 tvg-id="IDXChannel.id",IDX Channel
-https://live.idxchannel.com/idx/live.m3u8
-
-#EXTINF:-1 tvg-id="MetroTV.id",Metro TV
-https://
-
-#EXTINF:-1 tvg-id="BeritaSatu.id",BeritaSatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
-#EXTINF:-1 tvg-id="KompasTV.id",Kompas TV
-https://
-
 #EXTINF:-1 tvg-id="CNNIndonesia.id",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1098958802_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="GarudaTV.id",Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
