@@ -15,5 +15,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1861370222_b
 #EXTINF:-1 tvg-id="CNNIndonesia.id",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1098958802_b384000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="CoinDesk.id",CoinDesk TV
+https://videos-cloudfront-usp.jwpsrv.com/67198c40_4ed3b8b9e8e6b1c9589a3192d0da87f88eac8e55/site/jCGTjK65/media/vuFYsuvR/version/RVw79AkY/manifest.ism/manifest-audio_eng=112006-video_eng=2774449.m3u8
+
 #EXTINF:-1 tvg-id="GarudaTV.id",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
