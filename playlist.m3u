@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa",Al Jazeera English
-https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
@@ -18,6 +18,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DWEnglish.id",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 #EXTINF:-1 tvg-id="GarudaTV.id",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
@@ -27,11 +30,23 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id",JawaPos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="JustforLaughs.us",Just for Laughs
+https://lte.wiseplayout.com/wisem3u8_9/master.m3u8
+
+#EXTINF:-1 tvg-id="NickJR.us",Nick JR
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+
 #EXTINF:-1 tvg-id="NHKWorld.jp",NHK World
 https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
 
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+
 #EXTINF:-1 tvg-id="NusantaraTV.id",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTTV.id",RT News TV
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
