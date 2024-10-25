@@ -10,7 +10,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-id="BloombergUS.id",Bloomberg TV+
-https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
