@@ -24,18 +24,6 @@ https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.id",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="GarudaTV.id",Garuda TV
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
-
-#EXTINF:-1 tvg-id="GoalTV.id",Goal TV
-https://lte.wiseplayout.com/WiseM3U8_1/master.m3u8
-
-#EXTINF:-1 tvg-id="IDTV.id",IDTV
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-
-#EXTINF:-1 tvg-id="JawaPosTV.id",JawaPos TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="JustforLaughs.us",Just for Laughs
 https://lte.wiseplayout.com/wisem3u8_9/master.m3u8
 
@@ -44,9 +32,6 @@ https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorld.jp",NHK World
 https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
-
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium
-https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 
 #EXTINF:-1 tvg-id="NusantaraTV.id",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
