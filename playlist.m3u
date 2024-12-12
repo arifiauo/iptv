@@ -21,6 +21,9 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-id="NickJR.us",Nick JR
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 
+#EXTINF:-1 tvg-id="NusantaraTV.id",NusantaraTV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTTV.id",RT News TV
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
